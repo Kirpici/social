@@ -1,0 +1,3 @@
+baseURL = 'http://kirpici.github.io/social/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
